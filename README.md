@@ -1,2 +1,2 @@
-# Game Engine Architecture
-Reading the book by Jason Gregory.
+# My CMake template
+Used in my new projects.
